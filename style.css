@@ -78,7 +78,7 @@ body {
     display: none;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 800px) {
     .container {
         height: 55vh;
     }
